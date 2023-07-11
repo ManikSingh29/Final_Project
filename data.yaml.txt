@@ -1,0 +1,5 @@
+train: C:\Users\Manik\OneDrive\Desktop\Final_Project\train
+val : C:\Users\Manik\OneDrive\Desktop\Final_Project\val
+
+nc: 9
+names: ["Building","car","person","tree","boat","dock","ground","trees","water"]
